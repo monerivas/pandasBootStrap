@@ -1,5 +1,6 @@
-.container{
-    background-color: #192148;
+body{
+    background-color: #161822;
+    color: white;
 }
 
 
@@ -8,14 +9,28 @@
 	flex-wrap: wrap;
 }
 
-.header {
-    margin-bottom: 30px;
+.mb-5{
+    margin-bottom: 5%;
+}
+.mt-5{
+    margin-top: 5%;
 }
 
+.mb-10{
+    margin-bottom: 10%;
+}
 .center p {
 	text-align: center;
 }
 
 .justify p{
 	text-align: justify;
+}
+
+.btn-group{
+    color: #271a1a;
+}
+
+footer{
+    color: #271a1a;
 }
